@@ -24,3 +24,13 @@ SEN0165
 - Adafruit SGP30
 - Adafruit Unified Sensor
 
+## BME280 — Temperature / Humidity / Pressure
+![BME280](sensors/bme280.jpg)
+
+| BME280 Pin | Arduino Mega Pin |
+|---|---|
+| VCC | 3.3V |
+| GND | GND |
+| SDA | Pin 20 |
+| SCL | Pin 21 |
+| SDO | GND (address 0x76) |
